@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Como vão vocês?
+
 <p style="color: darkblue; font-weight: bold">Hello, I'm Jackciel, better known as Jack, and I live in the Brazilian northeast and besides anime, programming is one of my favorite things, I hope you find what you want in my profile...</p>
 
 <div style="display: flex; flex-direction: row; justify-content: space-around;">
