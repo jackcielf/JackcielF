@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3>Como vão vocês?</h3>
+<h3>How are you?</h3>
 
 <p>Hello, I'm Jackciel, better known as Jack, and I live in the Brazilian northeast and besides anime, programming is one of my favorite things, I hope you find what you want in my profile...</p>
 
