@@ -1,8 +1,10 @@
-<h1 align="center">Hi There 👋</h1>
+<h1>Hi there 👋</h1>
 <p>My name is Jackciel Felix, I'm a <strong>frontend developer</strong> and I've been working with technology since 2021.</p>
 <p>I'm looking for an opportunity to put my skills into practice and improve them with a company.</p>
+<span>See my portfolio: <a href="">Click Here</a></span>
 
 ## ⚡ Connect with me
+
 <p align="left">
 <a href="https://codepen.io/jakkifx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jakkifx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jackciel felix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jackciel felix" height="30" width="40" /></a>
@@ -45,6 +47,7 @@ IDEs:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## Other Tecnologies
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
