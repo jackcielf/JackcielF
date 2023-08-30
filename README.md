@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jackciel Felix</h1>
-<h3 align="center">Frontend Developer</h3>
+<p>My name is Jackciel Felix, I'm a <strong>frontend developer</strong> and I've been working with technology since 2021.</p>
 
 ## ⚡ Connect with me
 <p align="left">
