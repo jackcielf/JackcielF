@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jackciel Felix</h1>
+<h1 align="center">Hi There 👋</h1>
 <p>My name is Jackciel Felix, I'm a <strong>frontend developer</strong> and I've been working with technology since 2021.</p>
+<p>I'm looking for an opportunity to put my skills into practice and improve them with a company.</p>
 
 ## ⚡ Connect with me
 <p align="left">
