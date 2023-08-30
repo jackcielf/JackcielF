@@ -4,7 +4,6 @@
 ## ⚡ Connect with me
 <p align="left">
 <a href="https://codepen.io/jakkifx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jakkifx" height="30" width="40" /></a>
-<a href="https://dev.to/dev. jakkifx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev. jakkifx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jackciel felix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jackciel felix" height="30" width="40" /></a>
 <a href="https://instagram.com/jakki_fx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakki_fx" height="30" width="40" /></a>
 <a href="/meu portfólio: https://jakkifx-portfolio.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="meu portfólio: https://jakkifx-portfolio.vercel.app/" height="30" width="40" /></a>
