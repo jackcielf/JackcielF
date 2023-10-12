@@ -3,7 +3,7 @@
 <p>I'm looking for an opportunity to put my skills into practice and improve them with a company.</p>
 
 ## ⚡ Portfólio
-<span>See my portfolio: <a href="https://portfolio-jakki.netlify.app/" target="blank">Click Here</a></span>
+<span>See my portfolio: <a href="https://portfolio-jakki.netlify.app/" target="_blank">Click Here</a></span>
 
 ## ⚡ Connect with me
 
