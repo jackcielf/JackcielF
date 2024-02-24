@@ -20,6 +20,7 @@ These are some of the technologies and tools that I work with:
 
 Backend: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-2C2235?style=flat-square&logo=php)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
@@ -47,6 +48,7 @@ Tools:
 IDEs:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![NetBeans](https://img.shields.io/badge/-NetBeans-red?style=flat-square&logo=netbeans&logoColor=white)
 
 ## Other Tecnologies
 
