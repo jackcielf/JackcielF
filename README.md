@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<p>My name is Jackciel Felix, I'm a <strong>frontend developer</strong> and I've been studying technology since 2021.</p>
+<p>My name is Jackciel Felix, I'm a <strong>FRONTEND DEVELOPER</strong> and I've been studying technology since 2021.</p>
 
 ## ⚡ Portfólio
 <span>See my portfolio: <a href="https://jackcielf.netlify.app/" target="_self">Click Here</a></span>
