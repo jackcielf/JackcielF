@@ -7,9 +7,8 @@
 ## ⚡ Connect with me
 
 <p align="left">
-<a href="https://codepen.io/jakkifx" title="CodePen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jakkifx" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jackciel-felix-1b213a305/" title="LinkedIn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jackciel felix" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dev_jakkifx/" title="Instagram" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakki_fx" height="30" width="40" /></a>
+<a href="[https://www.instagram.com/dev_jakki/](https://www.instagram.com/dev_jakki)" title="Instagram" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakki_fx" height="30" width="40" /></a>
 </p>
 
 ## ⚡ Technologies
